@@ -10,15 +10,15 @@
 
 | エージェント | 役割 | ファイル | ステータス |
 |-----------|------|--------|--------|
-| `requirements-analyst` | 要求の整理、前提・制約・未決事項の抽出 | `requirements-analyst.md` | TBD |
-| `spec-writer` | 機能仕様書の作成・更新 | `spec-writer.md` | TBD |
-| `design-writer` | 技術設計書の作成・更新 | `design-writer.md` | TBD |
-| `implementation-planner` | 実装対象と実装順序の整理 | `implementation-planner.md` | TBD |
-| `code-reviewer` | コード差分のレビュー | `code-reviewer.md` | TBD |
+| `requirements-analyst` | 要求の整理、前提・制約・未決事項の抽出 | `requirements-analyst.md` | 完了 |
+| `spec-writer` | 機能仕様書の作成・更新 | `spec-writer.md` | 完了 |
+| `design-writer` | 技術設計書の作成・更新 | `design-writer.md` | 完了 |
+| `implementation-planner` | 実装対象と実装順序の整理 | `implementation-planner.md` | 完了 |
+| `code-reviewer` | コード差分のレビュー | `code-reviewer.md` | 完了 |
 | `code-improver` | 可読性、保守性、安全性の改善 | `code-improver.md` | TBD |
-| `test-writer` | テストの作成、追加、評価 | `test-writer.md` | TBD |
+| `test-writer` | テストの作成、追加、評価 | `test-writer.md` | 完了 |
 | `security-reviewer` | 認証、認可、入力検証などの確認 | `security-reviewer.md` | TBD |
-| `docs-maintainer` | コードとドキュメントの整合性確認 | `docs-maintainer.md` | TBD |
+| `docs-maintainer` | コードとドキュメントの整合性確認 | `docs-maintainer.md` | 完了 |
 | `pr-writer` | Pull Request の説明文作成 | `pr-writer.md` | TBD |
 
 ## エージェント定義ファイルの構成
